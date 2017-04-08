@@ -1,0 +1,21 @@
+{
+  "name": "VRbuzzer",
+  "version": "0.0.1",
+  "description": "Use an Amazon Dash button to gently inform VR users that someone is here",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Virtual Reality",
+    "VR door bell",
+    "dash button",
+    "alert system"
+  ],
+  "author": "valentin.squirelo@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
